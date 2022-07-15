@@ -1,3 +1,3 @@
 # Constrast-learning-to-identify-digits
 
-Siameese network is used to identify the mnsit digits
+Siamese network is used to identify the mnsit digits
